@@ -1,0 +1,52 @@
+.cartSummaryContainer {
+  padding: 8px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background-color: #ffffff;
+}
+
+.summaryText {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #616e7c;
+}
+.priceText {
+  color: #000000;
+}
+.itemsText {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+  font-weight: 500;
+  margin: 0px;
+  margin-top: 5px;
+}
+.checkoutButton {
+  background-color: transparent;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+  color: #000000;
+  font-weight: 500;
+  font-size: 15px;
+  border-width: 0px;
+}
+.proceedContainer {
+  display: flex;
+  align-items: center;
+  background-color: #ffce27;
+  width: 100%;
+  border-radius: 4px;
+  margin-top: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.rightIcon {
+  color: #000000;
+  cursor: pointer;
+  outline: none;
+}
